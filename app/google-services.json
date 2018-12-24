@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "974821830992",
+    "firebase_url": "https://armultiplayer-a3bd7.firebaseio.com",
+    "project_id": "armultiplayer-a3bd7",
+    "storage_bucket": "armultiplayer-a3bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974821830992:android:d7afb70594c1ea7c",
+        "android_client_info": {
+          "package_name": "com.example.ron.ar_multiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974821830992-n9n2ha7v5u1b0772jv0etqp647q331eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ron.ar_multiplayer",
+            "certificate_hash": "b7a56b889952cfdefac7b579bc3d86904a16ef1d"
+          }
+        },
+        {
+          "client_id": "974821830992-tt3ive3nbodo1p40dh02qcqtupcnr999.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZyOwD_wm6nD3dqAS_RqfikaIPYUn-j6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974821830992-tt3ive3nbodo1p40dh02qcqtupcnr999.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
